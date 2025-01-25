@@ -1,10 +1,10 @@
 (* Solutions to SA2 assignment, Intro to ML *)
 
-(* Name:                                    *)
+(* Name: Noah Reyes                                  *)
 (* Time spent on HW6:
 *)
 
-(* Collaborators and references:
+(* Collaborators and references: Google & ChatGPT
 *)
 
 (* indicate planning to use the Unit testing module *)
